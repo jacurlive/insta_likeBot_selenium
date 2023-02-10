@@ -1,2 +1,2 @@
-user_name = 'you username'
-pass_word = 'you password'
+user_name = 'your username'
+pass_word = 'your password'
