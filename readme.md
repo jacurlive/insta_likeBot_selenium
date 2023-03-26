@@ -1,9 +1,9 @@
 # Automation Like Posts by Hash Tag
 
-### chromedrive = 111.0.5563.64
-### selenium = 4.8.0
+**chromedrive = 111.0.5563.64**
+**selenium = 4.8.0**
 
-## run main.py
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Run+main.py)
 
 <p align="center">
 <img src="readme/1.png">
